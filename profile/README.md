@@ -7,4 +7,4 @@ We are a Roblox community specialized in broadcasting, news reports and entertai
 
 The technology division of RBC is responsible for creating and operating all technical equipment for productions and events.
 
-###### RBC does not sell its models, assets or creations. Leaking any non-public RBC property is prohibited by copyright law
+###### RBC does not sell its models, assets or creations. Leaking any non-public RBC property is prohibited by copyright law.
