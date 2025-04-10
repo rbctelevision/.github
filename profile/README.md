@@ -3,7 +3,7 @@
 # Hi there 👋 , We are RBC Television. 
 We are a Roblox community specialized in broadcasting, news reports and entertainment.
 
-**This github repo is dedicated to the tech team who works behind the scenes developing for RBC Television.**
+**This github account is dedicated to the tech team who works behind the scenes developing for RBC Television.**
 
 The technology division of RBC is responsible for creating and operating all technical equipment for productions and events.
 
